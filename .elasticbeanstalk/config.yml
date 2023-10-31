@@ -1,9 +1,9 @@
 branch-defaults:
   main:
-    environment: Ebay-env
+    environment: Test-env
 
 global:
-  application_name: Ebay
+  application_name: test
   branch: main
   default_ec2_keyname: null
   default_platform: Python 3.7
