@@ -1,7 +1,6 @@
 branch-defaults:
   main:
-    environment: Test-env
-
+    environment: null
 global:
   application_name: test
   branch: main
