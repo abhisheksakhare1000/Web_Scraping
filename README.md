@@ -28,6 +28,8 @@ python app.py
 ```
 The application will start, and you can access it at http://localhost:5000.
 
+This application has been deployed on AWS Elastic Beanstalk.
+
 Usage
 Enter the search query in the provided input box (e.g., "iPhone11").
 
